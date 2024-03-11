@@ -1,1 +1,5 @@
 # SocialCapital
+
+In a world where economic disparity is a growing concern, understanding and improving economic connectedness within communities is crucial. This challenge invites teams to analyze the Social Capital dataset, developed by Meta, featuring data on 21 billion friendships to uncover insights into economic connectedness and social cohesion. 
+
+The goal is to identify actionable strategies that could enhance economic integration and uplift communities at the school, county, or state level. Your task is to use data analytics and machine learning techniques to analyze the Social Capital dataset for insights into economic connectedness in U.S. neighborhoods, schools, and colleges. You may choose to focus on school, county, or state level data. Focus on identifying patterns, anomalies, and actionable strategies that could contribute to improving economic integration and social capital. Your analysis should lead to practical recommendations for community leaders, policymakers, or educational institutions.
