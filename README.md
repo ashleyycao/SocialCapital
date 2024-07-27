@@ -1,4 +1,4 @@
-# Social Capital Analytics
+# Social Capital Analytics Competition
 
 In a world where economic disparity is a growing concern, understanding and improving economic connectedness within communities is crucial. This challenge invites teams to analyze the Social Capital dataset, developed by Meta, featuring data on 21 billion friendships to uncover insights into economic connectedness and social cohesion. 
 
